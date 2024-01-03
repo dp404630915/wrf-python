@@ -10,6 +10,9 @@ Installation
 ----------------------------
 
     conda install -c conda-forge wrf-python
+    
+    sdfsdf
+    
 
 Documentation
 ----------------------------------
@@ -30,5 +33,4 @@ https://wrf-python.readthedocs.io/en/latest/citation.html) page.
 Science Foundation. Any opinions, findings and conclusions or recommendations
 expressed in this material do not necessarily reflect the views of the
 National Science Foundation.*
-
 
